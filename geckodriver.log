@@ -1,0 +1,44 @@
+1620070294201	geckodriver	INFO	Listening on 127.0.0.1:52990
+1620070297231	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deva\\AppData\\Local\\Temp\\rust_mozprofiles5MIYf"
+1620070298095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620070301764	Marionette	INFO	Listening on port 53003
+1620070302076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620070307060	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1620070307063	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+1620070308546	Marionette	INFO	Stopped listening on port 53003
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620070388414	geckodriver	INFO	Listening on 127.0.0.1:53273
+1620070391420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deva\\AppData\\Local\\Temp\\rust_mozprofileTR1k4g"
+1620070391944	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620070395460	Marionette	INFO	Listening on port 53286
+1620070395628	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+1620070401451	Marionette	INFO	Stopped listening on port 53286
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620070729469	geckodriver	INFO	Listening on 127.0.0.1:54303
+1620070732494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\deva\\AppData\\Local\\Temp\\rust_mozprofileiq80Gq"
+1620070733066	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620070736654	Marionette	INFO	Listening on port 54313
+1620070736714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620070740256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1620070742981	Marionette	INFO	Stopped listening on port 54313
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+JavaScript error: about:srcdoc, line 9: TypeError: parent is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
